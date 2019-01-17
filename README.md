@@ -11,7 +11,7 @@
 #### Lec1 (01/17)  
 딥러닝 홀로서기 세미나 오리엔테이션, Machine Learning Basic과 Linear Regression에 대한 내용을 다뤘습니다.  
 
-- Lec1-A(오리엔테이션) / [슬라이드](https://github.com/heartcored98/Standalone-DeepLearning/blob/master/Lec1/Lec1-A.pdf) / [비디오]()  
+- Lec1-A(OT) / [슬라이드](https://github.com/heartcored98/Standalone-DeepLearning/blob/master/Lec1/Lec1-A.pdf) / [비디오]()  
 
 - Lec1-B(Machine Learning Basic) / [슬라이드](https://github.com/heartcored98/Standalone-DeepLearning/blob/master/Lec1/Lec1-B.pdf) / [비디오]()  
 
