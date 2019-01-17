@@ -15,7 +15,7 @@
 
 - Lec1-B(Machine Learning Basic) / [슬라이드](https://github.com/heartcored98/Standalone-DeepLearning/blob/master/Lec1/Lec1-B.pdf) / [비디오](https://youtu.be/hPXeVHdIdmw)  
 
-- Lec1-C(Linear Regression) / 모두를 위한 머신러닝-딥러닝 강의 [슬라이드1](https://hunkim.github.io/ml/lec2.pdf), [슬라이드2](https://hunkim.github.io/ml/lec3.pdf), [슬라이드3](https://docs.google.com/presentation/d/1bHVxjCVvRKjCgtf6OMmxe35nR65LnsERoWSefWscv2I/) / [비디오]()
+- Lec1-C(Linear Regression) / 모두를 위한 머신러닝-딥러닝 강의 [슬라이드1](https://hunkim.github.io/ml/lec2.pdf), [슬라이드2](https://hunkim.github.io/ml/lec3.pdf), [슬라이드3](https://docs.google.com/presentation/d/1bHVxjCVvRKjCgtf6OMmxe35nR65LnsERoWSefWscv2I/) / [비디오](https://youtu.be/DWdtr_IURkU)
 
 - Lab1(Linear Regression) / [실습 코드](https://github.com/heartcored98/Standalone-DeepLearning/blob/master/Lec1/Lab1_linear_regression.ipynb) / [비디오]()
 
