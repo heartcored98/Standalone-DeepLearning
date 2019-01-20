@@ -11,15 +11,15 @@
 #### Lec1 (01/17, Thur)  
 딥러닝 홀로서기 세미나 오리엔테이션, Machine Learning Basic과 Linear Regression에 대한 내용을 다뤘습니다.  
 
-- Lec1-A(OT) / [슬라이드](https://github.com/heartcored98/Standalone-DeepLearning/blob/master/Lec1/Lec1-A.pdf) / [비디오](https://youtu.be/nHSCpxyAHx8)  
+:pencil2: Lec1-A(OT) / [슬라이드](https://github.com/heartcored98/Standalone-DeepLearning/blob/master/Lec1/Lec1-A.pdf) / [비디오](https://youtu.be/nHSCpxyAHx8)  
 
-- Lec1-B(Machine Learning Basic) / [슬라이드](https://github.com/heartcored98/Standalone-DeepLearning/blob/master/Lec1/Lec1-B.pdf) / [비디오](https://youtu.be/hPXeVHdIdmw)  
+:pencil2: Lec1-B(Machine Learning Basic) / [슬라이드](https://github.com/heartcored98/Standalone-DeepLearning/blob/master/Lec1/Lec1-B.pdf) / [비디오](https://youtu.be/hPXeVHdIdmw)  
 
-- Lec1-C(Linear Regression) / 모두를 위한 머신러닝-딥러닝 강의 [슬라이드1](https://hunkim.github.io/ml/lec2.pdf), [슬라이드2](https://hunkim.github.io/ml/lec3.pdf), [슬라이드3](https://docs.google.com/presentation/d/1bHVxjCVvRKjCgtf6OMmxe35nR65LnsERoWSefWscv2I/) / [비디오](https://youtu.be/DWdtr_IURkU)
+:pencil2: Lec1-C(Linear Regression) / 모두를 위한 머신러닝-딥러닝 강의 [슬라이드1](https://hunkim.github.io/ml/lec2.pdf), [슬라이드2](https://hunkim.github.io/ml/lec3.pdf), [슬라이드3](https://docs.google.com/presentation/d/1bHVxjCVvRKjCgtf6OMmxe35nR65LnsERoWSefWscv2I/) / [비디오](https://youtu.be/DWdtr_IURkU)
 
 :bar_chart: Lab1(Linear Regression) / [실습 코드](https://github.com/heartcored98/Standalone-DeepLearning/blob/master/Lec1/Lab1_linear_regression.ipynb) / [비디오](https://youtu.be/nQqMT0wbthw)  
 
-- **1회차**를 즐기셨거나 혹은 어려웠다면 **피드백**을 남겨주세요! :heart_eyes: / [구글 설문](https://goo.gl/forms/EjHD7zJ6lvmh9thB2) 
+:loudspeaker: **1회차**를 즐기셨거나 혹은 어려웠다면 **피드백**을 남겨주세요! :heart_eyes: / [구글 설문](https://goo.gl/forms/EjHD7zJ6lvmh9thB2) 
 
 # 
 
@@ -32,11 +32,11 @@ Logistic Regression, Multi-Label Classification, Artificial Neural Network
 :bookmark_tabs: Python 자료형을 잘 모르겠다(tuple, dictionary, set 등) -> [점프 투 파이썬 - 자료형 편](https://wikidocs.net/11)  
 :bookmark_tabs: Numpy와 빠르게 익숙해지고 싶다 -> [김태완님 - Numpy CheatSheet](http://taewan.kim/post/numpy_cheat_sheet/)
 
-- Lec2-A / [슬라이드](https://github.com/heartcored98/Standalone-DeepLearning/blob/master/Lec1/Lec2-A_before_class.pdf) / [비디오]()  
+:pencil2: Lec2-A / [슬라이드](https://github.com/heartcored98/Standalone-DeepLearning/blob/master/Lec1/Lec2-A_before_class.pdf) / [비디오]()  
 
-- Lec2-B / [슬라이드](https://github.com/heartcored98/Standalone-DeepLearning/blob/master/Lec1/Lec2-B_before_class.pdf) / [비디오]()  
+:pencil2: Lec2-B / [슬라이드](https://github.com/heartcored98/Standalone-DeepLearning/blob/master/Lec1/Lec2-B_before_class.pdf) / [비디오]()  
 
-- Lec2-C / [슬라이드](https://github.com/heartcored98/Standalone-DeepLearning/blob/master/Lec1/Lec2-C_before_class.pdf) / [비디오]()  
+:pencil2: Lec2-C / [슬라이드](https://github.com/heartcored98/Standalone-DeepLearning/blob/master/Lec1/Lec2-C_before_class.pdf) / [비디오]()  
 
 :bar_chart: Lab2(Pytorch Regression) / [실습 코드](https://github.com/heartcored98/Standalone-DeepLearning/blob/master/Lec2/Lab2_pytorch_regression_demo.ipynb) / [비디오]()   
 
