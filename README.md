@@ -4,7 +4,7 @@
 각 세미나는 3~4개의 강의 세션과 실습 세션들로 구성되어 있습니다.  
 - 슬라이드를 원하시는 경우 `슬라이드` 링크를 통해 들어가신 후 우측 중간 쯤에 있는 `Download` 버튼을 누르시면 다운로드가 가능합니다.  
 - 오프라인 세미나 영상 자료는 [Ideafactory KAIST 유튜브 채널](https://www.youtube.com/channel/UCTivi6Kji_93AjJu-7-osLQ) 혹은 `비디오` 링크를 통해 확인하실 수 있습니다.  
-- 실습 코드는 `실습 코드` 링크를 통해 들어가셔서 확인할 수 있으며 구글 콜라이보레이터를 통해서 직접 실행을 시키고 싶은 경우 `Open in Colab` 버튼을 누르시면 되겠습니다. (런타임 초기화에 여러분의 동의를 구한다면 예를 눌러주세요)   
+- 실습 코드는 `실습 코드` 링크를 통해 들어가셔서 확인할 수 있으며 구글 콜라이보레이터를 통해서 직접 실행을 시키고 싶은 경우 실습 코드네 안내를 참고해주세요!
 
 
 ## Contents  
@@ -17,5 +17,21 @@
 
 - Lec1-C(Linear Regression) / 모두를 위한 머신러닝-딥러닝 강의 [슬라이드1](https://hunkim.github.io/ml/lec2.pdf), [슬라이드2](https://hunkim.github.io/ml/lec3.pdf), [슬라이드3](https://docs.google.com/presentation/d/1bHVxjCVvRKjCgtf6OMmxe35nR65LnsERoWSefWscv2I/) / [비디오](https://youtu.be/DWdtr_IURkU)
 
-- Lab1(Linear Regression) / [실습 코드](https://github.com/heartcored98/Standalone-DeepLearning/blob/master/Lec1/Lab1_linear_regression.ipynb) / [비디오]()
+- Lab1(Linear Regression) / [실습 코드](https://github.com/heartcored98/Standalone-DeepLearning/blob/master/Lec1/Lab1_linear_regression.ipynb) / [비디오](https://youtu.be/nQqMT0wbthw)  
+
+- **1회차**를 즐기셨거나 혹은 어려웠다면 **피드백**을 남겨주세요! :heart_eyes: / [구글 설문](https://goo.gl/forms/EjHD7zJ6lvmh9thB2) 
+
+# 
+
+#### Lec2 (01/21, Mon)  
+Logistic Regression, Multi-Label Classification, Artificial Neural Network  
+
+<시작 전에 보면 좋은 자료들>
+
+- Python Class를 잘 모르겠다 -> [점프 투 파이썬 - 클래스 편](https://wikidocs.net/28)  
+- Python 자료형을 잘 모르겠다(tuple, dictionary, set 등) -> [점프 투 파이썬 - 자료형 편](https://wikidocs.net/11)  
+- Numpy와 빠르게 익숙해지고 싶다 -> [김태완님 - Numpy CheatSheet](http://taewan.kim/post/numpy_cheat_sheet/)
+
+
+
 
