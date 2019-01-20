@@ -17,7 +17,7 @@
 
 - Lec1-C(Linear Regression) / 모두를 위한 머신러닝-딥러닝 강의 [슬라이드1](https://hunkim.github.io/ml/lec2.pdf), [슬라이드2](https://hunkim.github.io/ml/lec3.pdf), [슬라이드3](https://docs.google.com/presentation/d/1bHVxjCVvRKjCgtf6OMmxe35nR65LnsERoWSefWscv2I/) / [비디오](https://youtu.be/DWdtr_IURkU)
 
-- Lab1(Linear Regression) / [실습 코드](https://github.com/heartcored98/Standalone-DeepLearning/blob/master/Lec1/Lab1_linear_regression.ipynb) / [비디오](https://youtu.be/nQqMT0wbthw)  
+:bar_chart: Lab1(Linear Regression) / [실습 코드](https://github.com/heartcored98/Standalone-DeepLearning/blob/master/Lec1/Lab1_linear_regression.ipynb) / [비디오](https://youtu.be/nQqMT0wbthw)  
 
 - **1회차**를 즐기셨거나 혹은 어려웠다면 **피드백**을 남겨주세요! :heart_eyes: / [구글 설문](https://goo.gl/forms/EjHD7zJ6lvmh9thB2) 
 
@@ -38,8 +38,8 @@ Logistic Regression, Multi-Label Classification, Artificial Neural Network
 
 - Lec2-C / [슬라이드](https://github.com/heartcored98/Standalone-DeepLearning/blob/master/Lec1/Lec2-C_before_class.pdf) / [비디오]()  
 
-- Lab2(Pytorch Regression) / [실습 코드](https://github.com/heartcored98/Standalone-DeepLearning/blob/master/Lec2/Lab2_pytorch_regression_demo.ipynb) / [비디오]()   
+:bar_chart: Lab2(Pytorch Regression) / [실습 코드](https://github.com/heartcored98/Standalone-DeepLearning/blob/master/Lec2/Lab2_pytorch_regression_demo.ipynb) / [비디오]()   
 
-- Lab3(Pytorch Classification) / [실습 코드](https://github.com/heartcored98/Standalone-DeepLearning/blob/master/Lec2/Lab3_pytorch_classification_demo.ipynb) / [비디오]()
+:bar_chart: Lab3(Pytorch Classification) / [실습 코드](https://github.com/heartcored98/Standalone-DeepLearning/blob/master/Lec2/Lab3_pytorch_classification_demo.ipynb) / [비디오]()
 
 
