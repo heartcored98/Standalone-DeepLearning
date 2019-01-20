@@ -17,5 +17,16 @@
 
 - Lec1-C(Linear Regression) / 모두를 위한 머신러닝-딥러닝 강의 [슬라이드1](https://hunkim.github.io/ml/lec2.pdf), [슬라이드2](https://hunkim.github.io/ml/lec3.pdf), [슬라이드3](https://docs.google.com/presentation/d/1bHVxjCVvRKjCgtf6OMmxe35nR65LnsERoWSefWscv2I/) / [비디오](https://youtu.be/DWdtr_IURkU)
 
-- Lab1(Linear Regression) / [실습 코드](https://github.com/heartcored98/Standalone-DeepLearning/blob/master/Lec1/Lab1_linear_regression.ipynb) / [비디오]()
+- Lab1(Linear Regression) / [실습 코드](https://github.com/heartcored98/Standalone-DeepLearning/blob/master/Lec1/Lab1_linear_regression.ipynb) / [비디오](https://youtu.be/nQqMT0wbthw)  
+
+#### Lec2 (01/21, Mon)  
+Logistic Regression, Multi-Label Classification, Artificial Neural Network  
+
+<시작 전에 보면 좋은 자료들>
+
+- Python Class를 잘 모르겠다 -> [점프 투 파이썬 - 클래스 편](https://wikidocs.net/28)  
+- Python 자료형을 잘 모르겠다(tuple, dictionary, set 등) -> [점프 투 파이썬 - 자료형 편](https://wikidocs.net/11)
+
+
+
 
