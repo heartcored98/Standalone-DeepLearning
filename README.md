@@ -21,6 +21,8 @@
 
 - **1회차**를 즐기셨거나 혹은 어려웠다면 **피드백**을 남겨주세요! :heart_eyes: / [구글 설문](https://goo.gl/forms/EjHD7zJ6lvmh9thB2) 
 
+# 
+
 #### Lec2 (01/21, Mon)  
 Logistic Regression, Multi-Label Classification, Artificial Neural Network  
 
