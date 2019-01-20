@@ -30,7 +30,9 @@ Logistic Regression, Multi-Label Classification, Artificial Neural Network
 
 :bookmark_tabs: Python Class를 잘 모르겠다 -> [점프 투 파이썬 - 클래스 편](https://wikidocs.net/28)  
 :bookmark_tabs: Python 자료형을 잘 모르겠다(tuple, dictionary, set 등) -> [점프 투 파이썬 - 자료형 편](https://wikidocs.net/11)  
-:bookmark_tabs: Numpy와 빠르게 익숙해지고 싶다 -> [김태완님 - Numpy CheatSheet](http://taewan.kim/post/numpy_cheat_sheet/)
+:bookmark_tabs: Numpy와 빠르게 익숙해지고 싶다 -> [김태완님 - Numpy CheatSheet](http://taewan.kim/post/numpy_cheat_sheet/)  
+:bookmark_tabs: 다양한 변수들로 실험한 결과를 관리하고 시각화하고 싶다  -> [조재영 - Tox21 MLP](https://github.com/heartcored98/CH485_AI_Chemistry/blob/master/Practice4_logP_CNN/Assignment4_logP_CNN.ipynb)
+
 
 :pencil2: Lec2-A / [슬라이드](https://github.com/heartcored98/Standalone-DeepLearning/blob/master/Lec1/Lec2-A_before_class.pdf) / [비디오]()  
 
