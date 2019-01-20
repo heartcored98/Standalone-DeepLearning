@@ -44,4 +44,4 @@ Logistic Regression, Multi-Label Classification, Artificial Neural Network
 
 :bar_chart: Lab3(Pytorch Classification) / [실습 코드](https://github.com/heartcored98/Standalone-DeepLearning/blob/master/Lec2/Lab3_pytorch_classification_demo.ipynb) / [비디오]()
 
-
+:mortar_board: Assignment1(Pytorch MNIST) / [시작 코드](https://github.com/heartcored98/Standalone-DeepLearning/blob/master/Lec2/Assignment1_pytorch_MNIST_MLP.ipynb) (**Due: 2019.01.23 22:00**)
