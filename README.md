@@ -46,5 +46,12 @@ Logistic Regression, Multi-Label Classification, Artificial Neural Network
 
 :mortar_board: Assignment1(Pytorch MNIST) / [시작 코드](https://github.com/heartcored98/Standalone-DeepLearning/blob/master/Lec2/Assignment1_pytorch_MNIST_MLP.ipynb) / [설명 비디오](https://youtu.be/keQ59-RHnJE?t=644) / [피드백 및 과제 제출용 설문](https://goo.gl/forms/znUwZOIHyAtrw2jG3) / (**Due: 2019.01.23(Wed) 22:00**)  
 
-:loudspeaker: **2회차**를 즐기셨거나 혹은 어려웠다면 **피드백**을 남겨주세요! / [피드백 설문](https://goo.gl/forms/znUwZOIHyAtrw2jG3) 
+:loudspeaker: **2회차**를 즐기셨거나 혹은 어려웠다면 **피드백**을 남겨주세요! / [피드백 설문](https://goo.gl/forms/znUwZOIHyAtrw2jG3)  
+
+#### Lec3 (01/24, Thur)  
+Model Capacity, Overfitting/Underfitting, Regularization 
+
+<시작 전에 보면 좋은 자료들>
+
+:bookmark_tabs: Train, Validation, Test 뭔가 헷갈린다?? -> [About Train, Validation and Test Sets in Machine Learning](https://towardsdatascience.com/train-validation-and-test-sets-72cb40cba9e7)
 
