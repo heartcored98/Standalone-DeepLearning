@@ -34,11 +34,11 @@ Logistic Regression, Multi-Label Classification, Artificial Neural Network
 :bookmark_tabs: 다양한 변수들로 실험한 결과를 관리하고 시각화하고 싶다  -> [조재영 - Tox21 MLP](https://github.com/heartcored98/CH485_AI_Chemistry/blob/master/Practice4_logP_CNN/Assignment4_logP_CNN.ipynb)
 
 
-:pencil2: Lec2-A / [슬라이드](https://github.com/heartcored98/Standalone-DeepLearning/blob/master/Lec1/Lec2-A_before_class.pdf) / [비디오](https://youtu.be/is_Vw-aJMg4)  
+:pencil2: Lec2-A / [슬라이드](https://github.com/heartcored98/Standalone-DeepLearning/blob/master/Lec2/Lec2-A_before_class.pdf) / [비디오](https://youtu.be/is_Vw-aJMg4)  
 
-:pencil2: Lec2-B / [슬라이드](https://github.com/heartcored98/Standalone-DeepLearning/blob/master/Lec1/Lec2-B_before_class.pdf) / [비디오](https://youtu.be/oOQCrm4Vemo)  
+:pencil2: Lec2-B / [슬라이드](https://github.com/heartcored98/Standalone-DeepLearning/blob/master/Lec2/Lec2-B_before_class.pdf) / [비디오](https://youtu.be/oOQCrm4Vemo)  
 
-:pencil2: Lec2-C / [슬라이드](https://github.com/heartcored98/Standalone-DeepLearning/blob/master/Lec1/Lec2-C_before_class.pdf) / [비디오](https://youtu.be/oOQCrm4Vemo?t=719)  
+:pencil2: Lec2-C / [슬라이드](https://github.com/heartcored98/Standalone-DeepLearning/blob/master/Lec2/Lec2-C_before_class.pdf) / [비디오](https://youtu.be/oOQCrm4Vemo?t=719)  
 
 :bar_chart: Lab2(Pytorch Regression) / [실습 코드](https://github.com/heartcored98/Standalone-DeepLearning/blob/master/Lec2/Lab2_pytorch_regression_demo.ipynb) / [비디오1](https://youtu.be/-hWgqTB09DM), [비디오2](https://youtu.be/keQ59-RHnJE)   
 
