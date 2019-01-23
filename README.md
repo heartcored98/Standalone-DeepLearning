@@ -58,6 +58,12 @@ Model Capacity, Overfitting/Underfitting, Regularization
 :bookmark_tabs: Train, Validation, Test 뭔가 헷갈린다?? -> [About Train, Validation and Test Sets in Machine Learning](https://towardsdatascience.com/train-validation-and-test-sets-72cb40cba9e7)  
 :bookmark_tabs: Pandas 맛보기 -> [10 Minutes to Pandas](https://pandas.pydata.org/pandas-docs/stable/10min.html)  
 :bookmark_tabs: 실험 결과 로깅을 위한 json 파일 포맷 이해하기 -> [JSON으로 작업하기](https://developer.mozilla.org/ko/docs/Learn/JavaScript/Objects/JSON)  
-:bookmark_tabs: matplotlib보다 더 쩌는 시각화 라이브러리 -> [seaborn](https://seaborn.pydata.org/index.html)    
+:bookmark_tabs: matplotlib보다 더 쩌는 시각화 라이브러리 -> [seaborn](https://seaborn.pydata.org/index.html)  
+
+:pencil2: Lec3-A / [슬라이드](https://github.com/heartcored98/Standalone-DeepLearning/blob/master/Lec3/Lec3-A.pdf) / [비디오]()  
+:pencil2: Lec3-B / [슬라이드](https://github.com/heartcored98/Standalone-DeepLearning/blob/master/Lec3/Lec3-B.pdf) / [비디오]()    
+:pencil2: Lec3-C / [슬라이드](https://github.com/heartcored98/Standalone-DeepLearning/blob/master/Lec3/Lec3-C.pdf) / [비디오]()
+  
+    
 
 
