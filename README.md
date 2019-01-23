@@ -61,7 +61,9 @@ Model Capacity, Overfitting/Underfitting, Regularization
 :bookmark_tabs: matplotlib보다 더 쩌는 시각화 라이브러리 -> [seaborn](https://seaborn.pydata.org/index.html)  
 
 :pencil2: Lec3-A / [슬라이드](https://github.com/heartcored98/Standalone-DeepLearning/blob/master/Lec3/Lec3-A.pdf) / [비디오]()  
-:pencil2: Lec3-B / [슬라이드](https://github.com/heartcored98/Standalone-DeepLearning/blob/master/Lec3/Lec3-B.pdf) / [비디오]()    
+  
+:pencil2: Lec3-B / [슬라이드](https://github.com/heartcored98/Standalone-DeepLearning/blob/master/Lec3/Lec3-B.pdf) / [비디오]()  
+    
 :pencil2: Lec3-C / [슬라이드](https://github.com/heartcored98/Standalone-DeepLearning/blob/master/Lec3/Lec3-C.pdf) / [비디오]()
   
     
