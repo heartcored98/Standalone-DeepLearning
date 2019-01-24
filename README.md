@@ -60,11 +60,24 @@ Model Capacity, Overfitting/Underfitting, Regularization
 :bookmark_tabs: 실험 결과 로깅을 위한 json 파일 포맷 이해하기 -> [JSON으로 작업하기](https://developer.mozilla.org/ko/docs/Learn/JavaScript/Objects/JSON)  
 :bookmark_tabs: matplotlib보다 더 쩌는 시각화 라이브러리 -> [seaborn](https://seaborn.pydata.org/index.html)  
 
-:pencil2: Lec3-A / [슬라이드](https://github.com/heartcored98/Standalone-DeepLearning/blob/master/Lec3/Lec3-A.pdf) / [비디오]()  
+:pencil2: Lec3-A / [슬라이드](https://github.com/heartcored98/Standalone-DeepLearning/blob/master/Lec3/Lec3-A.pdf) / [비디오](https://youtu.be/5zOkE7IPhxc)  
   
-:pencil2: Lec3-B / [슬라이드](https://github.com/heartcored98/Standalone-DeepLearning/blob/master/Lec3/Lec3-B.pdf) / [비디오]()  
+:pencil2: Lec3-B / [슬라이드](https://github.com/heartcored98/Standalone-DeepLearning/blob/master/Lec3/Lec3-B.pdf) / [비디오](https://youtu.be/ssf49Ppvh8c)  
     
-:pencil2: Lec3-C / [슬라이드](https://github.com/heartcored98/Standalone-DeepLearning/blob/master/Lec3/Lec3-C.pdf) / [비디오]()
+:pencil2: Lec3-C / [슬라이드](https://github.com/heartcored98/Standalone-DeepLearning/blob/master/Lec3/Lec3-C.pdf) / [비디오](https://youtu.be/4ZIw7wWFhZ8)  
+
+:pencil2: Lec3-D / [슬라이드](https://github.com/heartcored98/Standalone-DeepLearning/blob/master/Lec3/Lec3-D.pdf) / [비디오](https://youtu.be/_sz3KTyB9Lk)  
+
+:pencil2: Lec3-E / [슬라이드](https://github.com/heartcored98/Standalone-DeepLearning/blob/master/Lec3/Lec3-E.pdf) / [비디오](https://youtu.be/-i8b-srMhGM)  
+
+:bar_chart: Lab4(Pretty Code) / [실습 코드](https://github.com/heartcored98/Standalone-DeepLearning/blob/master/Lec3/Lab4_write_pretty_DL_code.ipynb) / [비디오](https://youtu.be/lh2Ed-b5l28)  
+
+:mortar_board: Assignment2(Cifar10 Hyperparameter Tuning) / [시작 코드](https://github.com/heartcored98/Standalone-DeepLearning/blob/master/Lec3/Lab4_write_pretty_DL_code.ipynb) / [설명 비디오](https://youtu.be/lh2Ed-b5l28) / [피드백 및 과제 제출용 설문](https://goo.gl/forms/2bTUJdyzHTEFxFth1) / (**Due: 2019.01.27(Sun) 22:00**)    
+
+:loudspeaker: **3회차**를 즐기셨거나 혹은 어려웠다면 **피드백**을 남겨주세요! / [피드백 설문](https://goo.gl/forms/2bTUJdyzHTEFxFth1)    
+
+
+
   
     
 
