@@ -87,7 +87,7 @@ Optimizer, Visualize 5 dimension Data with Pandas & Seaborn
 
 :pencil2: Lec4-B / [슬라이드](https://github.com/heartcored98/Standalone-DeepLearning/blob/master/Lec4/Lec4-B.pdf) / [비디오](https://youtu.be/a5R4gL1ObP8)    
 
-:bar_chart: Lab6 / [슬라이드](https://github.com/heartcored98/Standalone-DeepLearning/blob/master/Lec4/Lec4-C.pdf) / [실습 코드](https://github.com/heartcored98/Standalone-DeepLearning/blob/master/Lec4/Lab6_result_report.ipynb) / [비디오-업로드 예정!]()  
+:bar_chart: Lab6 / [슬라이드](https://github.com/heartcored98/Standalone-DeepLearning/blob/master/Lec4/Lec4-C.pdf) / [실습 코드](https://github.com/heartcored98/Standalone-DeepLearning/blob/master/Lec4/Lab6_result_report.ipynb) / [비디오](https://youtu.be/7CMxgqvrDgg)  
 
 :mortar_board: Assignment3(Again, Cifar10 Hyperparameter Tuning) / [시작 코드](https://github.com/heartcored98/Standalone-DeepLearning/blob/master/Lec4/Assignment3_cifar10_MLP.ipynb) /  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[피드백 및 과제 제출용 설문](https://goo.gl/forms/XQHdElHCueyCwfoi2) / (**Due: 2019.01.30(Wed) 22:00**)  
