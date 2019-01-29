@@ -76,6 +76,26 @@ Model Capacity, Overfitting/Underfitting, Regularization
 
 :loudspeaker: **3회차**를 즐기셨거나 혹은 어려웠다면 **피드백**을 남겨주세요! / [피드백 설문](https://goo.gl/forms/2bTUJdyzHTEFxFth1)    
 
+#  
+
+#### Lec4 (01/28, Mon)  
+Optimizer, Visualize 5 dimension Data with Pandas & Seaborn  
+
+:pencil2: Lec4-A(with Lab5) / [슬라이드](https://github.com/heartcored98/Standalone-DeepLearning/blob/master/Lec4/Lec4-A.pdf) / [실습 코드](https://github.com/heartcored98/Standalone-DeepLearning/blob/master/Lec4/Lab5_regularization_implemented.ipynb) / [비디오](  
+
+:pencil2: Lec4-B / [슬라이드](https://github.com/heartcored98/Standalone-DeepLearning/blob/master/Lec4/Lec4-B.pdf) / [비디오]()    
+
+:bar_chart: Lab6 / [슬라이드](https://github.com/heartcored98/Standalone-DeepLearning/blob/master/Lec4/Lec4-C.pdf) / [실습 코드](https://github.com/heartcored98/Standalone-DeepLearning/blob/master/Lec4/Lab6_result_report.ipynb) / [비디오]()  
+
+:mortar_board: Assignment3(Again, Cifar10 Hyperparameter Tuning) / [시작 코드]() / [피드백 및 과제 제출용 설문]() / (**Due: 2019.01.30(Wed) 22:00**)  
+
+:loudspeaker: **4회차**를 즐기셨거나 혹은 어려웠다면 **피드백**을 남겨주세요! / [피드백 설문]()    
+    
+
+
+
+
+
 
 
   
