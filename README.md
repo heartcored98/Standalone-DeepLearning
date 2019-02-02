@@ -100,11 +100,11 @@ Optimizer, Visualize 5 dimension Data with Pandas & Seaborn
 
 Basic of Convolutional Neural Network (CNN)
 
-:pencil2: Lec5-A (Review of assignment #3) / [과제 코드](https://github.com/heartcored98/Standalone-DeepLearning/blob/master/Lec4/Assignment3_cifar10_MLP.ipynb) / [비디오]()
+:pencil2: Lec5-A (Review of assignment #3) / [과제 코드](https://github.com/heartcored98/Standalone-DeepLearning/blob/master/Lec4/Assignment3_cifar10_MLP.ipynb) / [비디오](https://www.youtube.com/watch?v=NPcQ_SdSDN0&t=5s)
 
-:pencil2: Lec5-B / [슬라이드](https://github.com/heartcored98/Standalone-DeepLearning/blob/master/Lec5/Lec5-A.pdf) / [비디오]()
+:pencil2: Lec5-B / [슬라이드](https://github.com/heartcored98/Standalone-DeepLearning/blob/master/Lec5/Lec5-A.pdf) / [비디오](https://www.youtube.com/watch?v=PIft4URoQcw)
 
-:bar_chart: Lab7 / [실습 코드](https://github.com/heartcored98/Standalone-DeepLearning/blob/master/Lec5/Lab7_CIFAR-10_with_CNN.ipynb) / [비디오]()
+:bar_chart: Lab7 / [실습 코드](https://github.com/heartcored98/Standalone-DeepLearning/blob/master/Lec5/Lab7_CIFAR-10_with_CNN.ipynb) / [비디오](https://www.youtube.com/watch?v=uskpN90u-dE)
 
 :mortar_board: Assignment4(CIFAR-10 classification with CNN) / [시작코드]() / [피드백 및 과제 제출용 설문](https://goo.gl/forms/32IOKOodoBjY63VO2) / (**Due: 2019.02.06(Wed) 22:00**)
 
