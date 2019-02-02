@@ -93,11 +93,22 @@ Optimizer, Visualize 5 dimension Data with Pandas & Seaborn
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[피드백 및 과제 제출용 설문](https://goo.gl/forms/XQHdElHCueyCwfoi2) / (**Due: 2019.01.30(Wed) 22:00**)  
 
 :loudspeaker: **4회차**를 즐기셨거나 혹은 어려웠다면 **피드백**을 남겨주세요! / [피드백 설문](https://goo.gl/forms/XQHdElHCueyCwfoi2)    
+
+#
     
+#### Lec5 (01/31, Thur)
 
+Basic of Convolutional Neural Network (CNN)
 
+:pencil2: Lec5-A (Review of assignment #3) / [과제 코드](https://github.com/heartcored98/Standalone-DeepLearning/blob/master/Lec4/Assignment3_cifar10_MLP.ipynb) / [비디오]()
 
+:pencil2: Lec5-B / [슬라이드](https://github.com/heartcored98/Standalone-DeepLearning/blob/master/Lec5/Lec5-A.pdf) / [비디오]()
 
+:bar_chart: Lab7 / [실습 코드](https://github.com/heartcored98/Standalone-DeepLearning/blob/master/Lec5/Lab7_CIFAR-10_with_CNN.ipynb) / [비디오]()
+
+:mortar_board: Assignment4(CIFAR-10 classification with CNN) / [시작코드]() / [피드백 및 과제 제출용 설문](https://goo.gl/forms/32IOKOodoBjY63VO2) / (**Due: 2019.02.06(Wed) 22:00**)
+
+:loudspeaker: 5회차를 즐기셨거나 혹은 어려웠다면 피드백을 남겨주세요! / [피드백 설문](https://goo.gl/forms/32IOKOodoBjY63VO2)
 
 
 
