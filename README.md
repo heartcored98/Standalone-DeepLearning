@@ -145,9 +145,9 @@ Advanced RNN Architectures (LSTM, GRU)
 
  <시작 전에 보면 좋은 자료들>
 
-:bookmark_tabs: LSTM을 시각적으로 쉽게 이해하고 싶다면 -> [Understanding LSTM Networks - Colah Blog](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)    
-:bookmark_tabs: pytorch에서 나만의 데이터셋을 만들려면? -> [Data Loading Tutorial](https://pytorch.org/tutorials/beginner/data_loading_tutorial.html)  
-:bookmark_tabs: LSTM을 pytorch에서 정확하게 쓰려면? -> [LSTM for time series in pytorch](http://www.jessicayung.com/lstms-for-time-series-in-pytorch/)  
+:bookmark_tabs: LSTM을 시각적으로 쉽게 이해하고 싶다면 -> [Understanding LSTM Networks - Colah's Blog](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)    
+:bookmark_tabs: pytorch에서 나만의 데이터셋을 만들려면? -> [Data Loading Tutorial - Pytorch Official Tutorial](https://pytorch.org/tutorials/beginner/data_loading_tutorial.html)  
+:bookmark_tabs: LSTM을 pytorch에서 정확하게 쓰려면? -> [LSTM for time series in pytorch - Jessica's Blog](http://www.jessicayung.com/lstms-for-time-series-in-pytorch/)  
 
 :bar_chart: Lab10 / [실습 코드](https://github.com/heartcored98/Standalone-DeepLearning/blob/master/Lec8/Lab10_Stock_Price_Prediction_with_LSTM.ipynb) / [비디오]()
 
