@@ -139,7 +139,7 @@ Advanced CNN Architectures (Skip-connection, Inception, ResNet)
 
  #  
  
- #### Lec7 (02/11, Mon)   
+ #### Lec8 (02/14, Thur)   
  
 Advanced RNN Architectures (LSTM, GRU)  
 
