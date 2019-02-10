@@ -108,7 +108,7 @@ Basic of Convolutional Neural Network (CNN)
 
 :mortar_board: Assignment4(CIFAR-10 classification with CNN) / [시작코드]() / [피드백 및 과제 제출용 설문](https://goo.gl/forms/32IOKOodoBjY63VO2) / (**Due: 2019.02.06(Wed) 22:00**)
 
-:loudspeaker: 5회차를 즐기셨거나 혹은 어려웠다면 피드백을 남겨주세요! / [피드백 설문](https://goo.gl/forms/32IOKOodoBjY63VO2)
+:loudspeaker: **5회차**를 즐기셨거나 혹은 어려웠다면 **피드백**을 남겨주세요! / [피드백 설문](https://goo.gl/forms/32IOKOodoBjY63VO2)
 
 #
     
@@ -124,7 +124,7 @@ Advanced CNN Architectures (Skip-connection, Inception, ResNet)
 
 :mortar_board: Assignment5(CIFAR-100 classification with ResNet) / [시작코드](https://github.com/heartcored98/Standalone-DeepLearning/blob/master/Lec6/Assignment5_CIFAR-100_with_ResNet.ipynb) / [피드백 및 과제 제출용 설문](https://goo.gl/forms/awJO5Sk1fKCT82mY2) / (**Due: 2019.02.010(Sun) 22:00**)
 
-:loudspeaker: 6회차를 즐기셨거나 혹은 어려웠다면 피드백을 남겨주세요! / [피드백 설문](https://goo.gl/forms/awJO5Sk1fKCT82mY2)
+:loudspeaker: **6회차**를 즐기셨거나 혹은 어려웠다면 **피드백** 남겨주세요! / [피드백 설문](https://goo.gl/forms/awJO5Sk1fKCT82mY2)
 
  #  
  
