@@ -114,7 +114,7 @@ Basic of Convolutional Neural Network (CNN)
     
 #### Lec6 (02/07, Thur)
 
-Advanced CNN Architectures
+Advanced CNN Architectures (Skip-connection, Inception, ResNet)
 
 :pencil2: Lec6-A (Review of assignment #4) / [과제 코드](https://github.com/heartcored98/Standalone-DeepLearning/blob/master/Lec5/Assignment4_CIFAR-10_with_CNN.ipynb) / [비디오](https://www.youtube.com/watch?v=fPibzxr6LdQ&t=17s)
 
@@ -126,7 +126,16 @@ Advanced CNN Architectures
 
 :loudspeaker: 5회차를 즐기셨거나 혹은 어려웠다면 피드백을 남겨주세요! / [피드백 설문](https://goo.gl/forms/awJO5Sk1fKCT82mY2)
 
-  
+ #  
+ 
+ #### Lec7 (02/11, Mon)  
+ 
+ Basic of Recurrent Neural Network (RNN)  
+ 
+ <시작 전에 보면 좋은 자료들>
+
+:bookmark_tabs: pytorch에서 나만의 데이터셋을 만들려면? -> [Data Loading Tutorial](https://pytorch.org/tutorials/beginner/data_loading_tutorial.html)
+:bookmark_tabs: LSTM을 pytorch에서 정확하게 쓰려면? -> [LSTM for time series in pytorch](http://www.jessicayung.com/lstms-for-time-series-in-pytorch/)
     
 
 
