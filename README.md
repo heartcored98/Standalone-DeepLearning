@@ -131,7 +131,7 @@ Advanced CNN Architectures (Skip-connection, Inception, ResNet)
  #### Lec7 (02/11, Mon)  
  
  Basic of Recurrent Neural Network (RNN)  
- 
+  
  <시작 전에 보면 좋은 자료들>
 
 :bookmark_tabs: pytorch에서 나만의 데이터셋을 만들려면? -> [Data Loading Tutorial](https://pytorch.org/tutorials/beginner/data_loading_tutorial.html)
