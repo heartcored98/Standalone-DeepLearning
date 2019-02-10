@@ -118,13 +118,13 @@ Advanced CNN Architectures (Skip-connection, Inception, ResNet)
 
 :pencil2: Lec6-A (Review of assignment #4) / [과제 코드](https://github.com/heartcored98/Standalone-DeepLearning/blob/master/Lec5/Assignment4_CIFAR-10_with_CNN.ipynb) / [비디오](https://www.youtube.com/watch?v=fPibzxr6LdQ&t=17s)
 
-:pencil2: Lec6-B / [슬라이드](https://github.com/heartcored98/Standalone-DeepLearning/blob/master/Lec6/lec6-a.pdf) / [비디오](https://www.youtube.com/watch?v=8mI9zRdx2Es)
+:pencil2: Lec6-B / [슬라이드](https://github.com/heartcored98/Standalone-DeepLearning/blob/master/Lec6/Lec6-A.pdf) / [비디오](https://www.youtube.com/watch?v=8mI9zRdx2Es)
 
 :bar_chart: Lab8 / [실습 코드](https://github.com/heartcored98/Standalone-DeepLearning/blob/master/Lec6/Lab8_CIFAR_100_with_ResNet.ipynb) / [비디오](https://www.youtube.com/watch?v=Fh3vxJNoREA)
 
 :mortar_board: Assignment5(CIFAR-100 classification with ResNet) / [시작코드](https://github.com/heartcored98/Standalone-DeepLearning/blob/master/Lec6/Assignment5_CIFAR-100_with_ResNet.ipynb) / [피드백 및 과제 제출용 설문](https://goo.gl/forms/awJO5Sk1fKCT82mY2) / (**Due: 2019.02.010(Sun) 22:00**)
 
-:loudspeaker: 5회차를 즐기셨거나 혹은 어려웠다면 피드백을 남겨주세요! / [피드백 설문](https://goo.gl/forms/awJO5Sk1fKCT82mY2)
+:loudspeaker: 6회차를 즐기셨거나 혹은 어려웠다면 피드백을 남겨주세요! / [피드백 설문](https://goo.gl/forms/awJO5Sk1fKCT82mY2)
 
  #  
  
@@ -137,6 +137,6 @@ Advanced CNN Architectures (Skip-connection, Inception, ResNet)
 :bookmark_tabs: pytorch에서 나만의 데이터셋을 만들려면? -> [Data Loading Tutorial](https://pytorch.org/tutorials/beginner/data_loading_tutorial.html)  
 :bookmark_tabs: LSTM을 pytorch에서 정확하게 쓰려면? -> [LSTM for time series in pytorch](http://www.jessicayung.com/lstms-for-time-series-in-pytorch/)  
 
-:bar_chart: Lab9 / [실습 코드](https://github.com/heartcored98/Standalone-DeepLearning/blob/master/Lec7/Lab9_stock_price_LSTM.ipynb) / [비디오]()
+:bar_chart: Lab9 / [실습 코드](https://github.com/heartcored98/Standalone-DeepLearning/blob/master/Lec7/Lab9_Stock_Price_Prediction_with_LSTM.ipynb) / [비디오]()
 
 
