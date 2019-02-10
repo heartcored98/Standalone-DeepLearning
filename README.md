@@ -134,7 +134,7 @@ Advanced CNN Architectures (Skip-connection, Inception, ResNet)
   
  <시작 전에 보면 좋은 자료들>
 
-:bookmark_tabs: pytorch에서 나만의 데이터셋을 만들려면? -> [Data Loading Tutorial](https://pytorch.org/tutorials/beginner/data_loading_tutorial.html)
+:bookmark_tabs: pytorch에서 나만의 데이터셋을 만들려면? -> [Data Loading Tutorial](https://pytorch.org/tutorials/beginner/data_loading_tutorial.html)  
 :bookmark_tabs: LSTM을 pytorch에서 정확하게 쓰려면? -> [LSTM for time series in pytorch](http://www.jessicayung.com/lstms-for-time-series-in-pytorch/)
     
 
