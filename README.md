@@ -136,7 +136,7 @@ Basic of Recurrent Neural Network (RNN)
 
 :pencil2: Lec7-B / [슬라이드](https://github.com/heartcored98/Standalone-DeepLearning/blob/master/Lec7/Lec7-A.pdf) / [비디오](https://www.youtube.com/watch?v=bPRfnlG6dtU)
 
-:bar_chart: Lab9 / [실습 코드](https://github.com/heartcored98/Standalone-DeepLearning/blob/master/Lec7/Lab9_.ipynb) / [비디오](https://youtu.be/tlyzfIYvMWE)
+:bar_chart: Lab9 / [실습 코드](https://github.com/heartcored98/Standalone-DeepLearning/blob/master/Lec7/Lab9_learn_trigonometric_with_RNN.ipynb) / [비디오](https://youtu.be/tlyzfIYvMWE)
 
 :loudspeaker: **7회차**를 즐기셨거나 혹은 어려웠다면 **피드백** 남겨주세요! / [피드백 설문](https://goo.gl/forms/oheopjRPfQGVjTLD3)
 
