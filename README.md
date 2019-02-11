@@ -126,24 +126,28 @@ Advanced CNN Architectures (Skip-connection, Inception, ResNet)
 
 :loudspeaker: **6회차**를 즐기셨거나 혹은 어려웠다면 **피드백** 남겨주세요! / [피드백 설문](https://goo.gl/forms/awJO5Sk1fKCT82mY2)
 
- #  
+#  
  
- #### Lec7 (02/11, Mon)  
+#### Lec7 (02/11, Mon)  
  
- Basic of Recurrent Neural Network (RNN)  
+Basic of Recurrent Neural Network (RNN)  
   
-:pencil2: Lec7-A (Review of assignment #5) / [과제 코드](https://github.com/heartcored98/Standalone-DeepLearning/blob/master/Lec6/Assignment5_CIFAR-100_with_ResNet.ipynb) / [비디오]()
+:pencil2: Lec7-A (Review of assignment #5) / [과제 코드](https://github.com/heartcored98/Standalone-DeepLearning/blob/master/Lec6/Assignment5_CIFAR-100_with_ResNet.ipynb) / [비디오](https://www.youtube.com/watch?v=bPVQGnxbwr0)
 
-:pencil2: Lec7-B / [슬라이드](https://github.com/heartcored98/Standalone-DeepLearning/blob/master/Lec7/Lec7-A.pdf) / [비디오]()
+:pencil2: Lec7-B / [슬라이드](https://github.com/heartcored98/Standalone-DeepLearning/blob/master/Lec7/Lec7-A.pdf) / [비디오](https://www.youtube.com/watch?v=bPRfnlG6dtU)
+
+:bar_chart: Lab9 / [실습 코드](https://github.com/heartcored98/Standalone-DeepLearning/blob/master/Lec7/Lab9_.ipynb) / [비디오](https://youtu.be/tlyzfIYvMWE)
+
+:loudspeaker: **7회차**를 즐기셨거나 혹은 어려웠다면 **피드백** 남겨주세요! / [피드백 설문](https://goo.gl/forms/oheopjRPfQGVjTLD3)
 
 
- #  
+#  
  
- #### Lec8 (02/14, Thur)   
+#### Lec8 (02/14, Thur)   
  
 Advanced RNN Architectures (LSTM, GRU)  
 
- <시작 전에 보면 좋은 자료들>
+<시작 전에 보면 좋은 자료들>
 
 :bookmark_tabs: LSTM을 시각적으로 쉽게 이해하고 싶다면 -> [Understanding LSTM Networks - Colah's Blog](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)    
 :bookmark_tabs: pytorch에서 나만의 데이터셋을 만들려면? -> [Data Loading Tutorial - Pytorch Official Tutorial](https://pytorch.org/tutorials/beginner/data_loading_tutorial.html)  
