@@ -153,6 +153,9 @@ Advanced RNN Architectures (LSTM, GRU)
 :bookmark_tabs: pytorch에서 나만의 데이터셋을 만들려면? -> [Data Loading Tutorial - Pytorch Official Tutorial](https://pytorch.org/tutorials/beginner/data_loading_tutorial.html)  
 :bookmark_tabs: LSTM을 pytorch에서 정확하게 쓰려면? -> [LSTM for time series in pytorch - Jessica's Blog](http://www.jessicayung.com/lstms-for-time-series-in-pytorch/)  
 
+:pencil2: Lec8-A / [슬라이드](https://github.com/heartcored98/Standalone-DeepLearning/blob/master/Lec8/Lec8-A.pdf) / [비디오]()
+
+
 :bar_chart: Lab10 / [실습 코드](https://github.com/heartcored98/Standalone-DeepLearning/blob/master/Lec8/Lab10_Stock_Price_Prediction_with_LSTM.ipynb) / [비디오]()
 
 
