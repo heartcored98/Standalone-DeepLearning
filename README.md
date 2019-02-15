@@ -158,6 +158,6 @@ Advanced RNN Architectures (LSTM, GRU)
 :bar_chart: Lab10 / [실습 코드](https://github.com/heartcored98/Standalone-DeepLearning/blob/master/Lec8/Lab10_Stock_Price_Prediction_with_LSTM.ipynb) / [비디오]()  
 
 :loudspeaker: **8회차**를 즐기셨거나 혹은 어려웠다면 **피드백** 남겨주세요! / [피드백 설문](https://goo.gl/forms/a7gbaxIvYUOTue1T2)
-
+ 
 
 
