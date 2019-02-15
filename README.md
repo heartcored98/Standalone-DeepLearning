@@ -7,6 +7,8 @@
 - 실습 코드는 `실습 코드` 링크를 통해 들어가셔서 확인할 수 있으며 구글 콜라이보레이터를 통해서 직접 실행을 시키고 싶은 경우 실습 코드네 안내를 참고해주세요!  
 - :bookmark_tabs:는 시작하기 전에 보면 좋은 자료, :pencil2:는 이론 강의, :bar_chart:는 실습 강의, :mortar_board:는 과제 그리고 :loudspeaker:는 각 회차에 대한 피드백을 남길 수 있는 설문 링크입니다!   
 
+**만약 저희 세미나가 마음에 드셨다면 우측 상단에 있는 :star2:Star를 박아주세요! 미리 감사드리겠습니다!**
+
 ## Contents  
 #### Lec1 (01/17, Thur)  
 딥러닝 홀로서기 세미나 오리엔테이션, Machine Learning Basic과 Linear Regression에 대한 내용을 다뤘습니다.  
