@@ -160,6 +160,27 @@ Advanced RNN Architectures (LSTM, GRU)
 :bar_chart: Lab10 / [실습 코드](https://github.com/heartcored98/Standalone-DeepLearning/blob/master/Lec8/Lab10_Stock_Price_Prediction_with_LSTM.ipynb) / [비디오]()  
 
 :loudspeaker: **8회차**를 즐기셨거나 혹은 어려웠다면 **피드백** 남겨주세요! / [피드백 설문](https://goo.gl/forms/a7gbaxIvYUOTue1T2)
+
+
+#  
+ 
+#### Lec9 (02/18, Mon)   
+ 
+Basic of Graph Convolutional Network (GCN)  
+
+<시작 전에 보면 좋은 자료들>
+
+:bookmark_tabs: GCN을 찬찬히 제대로 다시 공부하고 싶다면? -> [Graph Convolutional Networks - Thomas's Blog](https://tkipf.github.io/graph-convolutional-networks/)    
+:bookmark_tabs: 분자 데이터를 쉽게 다룰 수 있는 RDkit 라이브러리를 더 알고 싶다면? -> [Practice RDkit - Seongok's Jupyter Notebook](https://github.com/SeongokRyu/CH485---Artificial-Intelligence-and-Chemistry/blob/master/Practice%2002/practice_rdkit.ipynb)    
+
+
+:pencil2: Lec9-A / [슬라이드](https://github.com/heartcored98/Standalone-DeepLearning/blob/master/Lec9/Lec9-A.pdf) / [비디오](https://www.youtube.com/watch?v=YL1jGgcY78U)
+
+:bar_chart: Lab11 / [실습 코드](https://github.com/heartcored98/Standalone-DeepLearning/blob/master/Lec9/Lab11_logP_Prediction_with_GCN.ipynb) / [비디오](https://www.youtube.com/watch?v=htTt4iPJqMg)  
+
+:loudspeaker: **9회차**를 즐기셨거나 혹은 어려웠다면 **피드백** 남겨주세요! / [피드백 설문](https://goo.gl/forms/09g6VmE4tdIQAi8E3)
  
 
 
+
+https://goo.gl/forms/09g6VmE4tdIQAi8E3
