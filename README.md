@@ -179,8 +179,3 @@ Basic of Graph Convolutional Network (GCN)
 :bar_chart: Lab11 / [실습 코드](https://github.com/heartcored98/Standalone-DeepLearning/blob/master/Lec9/Lab11_logP_Prediction_with_GCN.ipynb) / [비디오](https://www.youtube.com/watch?v=htTt4iPJqMg)  
 
 :loudspeaker: **9회차**를 즐기셨거나 혹은 어려웠다면 **피드백** 남겨주세요! / [피드백 설문](https://goo.gl/forms/09g6VmE4tdIQAi8E3)
- 
-
-
-
-https://goo.gl/forms/09g6VmE4tdIQAi8E3
