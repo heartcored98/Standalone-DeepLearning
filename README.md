@@ -196,5 +196,4 @@ Generative Model: VAE and GAN
 
 :pencil2: Lec10-C / [슬라이드](https://github.com/heartcored98/Standalone-DeepLearning/blob/master/Lec10/Lec10-A.pdf) / [비디오](https://www.youtube.com/watch?v=JOjMk-E1CnQ)  
   
-
 :loudspeaker: **10회차**를 즐기셨거나 혹은 어려웠다면 **피드백** 남겨주세요! / [피드백 설문](https://goo.gl/forms/QZtWwQwTYsfAd6zA2)
