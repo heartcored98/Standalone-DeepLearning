@@ -190,8 +190,11 @@ Generative Model: VAE and GAN
 
 :bookmark_tabs: Maximum Likelihood에 대해 궁금하다면? -> [Probability vs Likelihood](http://rpubs.com/Statdoc/204928)    
 
-:pencil2: Lec9-A / [슬라이드](https://github.com/heartcored98/Standalone-DeepLearning/blob/master/Lec9/Lec9-A.pdf) / [비디오](https://www.youtube.com/watch?v=YL1jGgcY78U)
+:pencil2: Lec10-A / [슬라이드](https://github.com/heartcored98/Standalone-DeepLearning/blob/master/Lec10/Lec10-A.pdf) / [비디오](https://www.youtube.com/watch?v=54hyK1J4wTc)  
 
-:bar_chart: Lab11 / [실습 코드](https://github.com/heartcored98/Standalone-DeepLearning/blob/master/Lec9/Lab11_logP_Prediction_with_GCN.ipynb) / [비디오](https://www.youtube.com/watch?v=htTt4iPJqMg)  
+:pencil2: Lec10-B / [슬라이드](https://github.com/heartcored98/Standalone-DeepLearning/blob/master/Lec10/Lec10-A.pdf) / [비디오](https://www.youtube.com/watch?v=LeMnE1TIil4)  
 
-:loudspeaker: **9회차**를 즐기셨거나 혹은 어려웠다면 **피드백** 남겨주세요! / [피드백 설문](https://goo.gl/forms/09g6VmE4tdIQAi8E3)
+:pencil2: Lec10-C / [슬라이드](https://github.com/heartcored98/Standalone-DeepLearning/blob/master/Lec10/Lec10-A.pdf) / [비디오](https://www.youtube.com/watch?v=JOjMk-E1CnQ)  
+  
+
+:loudspeaker: **10회차**를 즐기셨거나 혹은 어려웠다면 **피드백** 남겨주세요! / [피드백 설문](https://goo.gl/forms/QZtWwQwTYsfAd6zA2)
