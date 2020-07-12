@@ -1,4 +1,4 @@
-![Test Image 1](표지1차.png)
+![Test Image 1](Lec1/표지1차.png)
 
 
 
