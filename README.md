@@ -2,7 +2,7 @@
 
 
 
-## Standalone-DeepLearning
+## Standalone-DeepLearning (by Dingbro, Inc) 
 2019 KAIST 딥러닝 홀로서기 세미나용 저장소입니다.  
 
 각 세미나는 3~4개의 강의 세션과 실습 세션들로 구성되어 있습니다.  
