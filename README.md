@@ -265,5 +265,9 @@ Generative Model: VAE and GAN
 </p>
   
 
+# TODO  
+
+- [ ] Colab Dependency 업데이트  
+- [ ] RNN Lab Training Fail 이슈 해결  
 
 
