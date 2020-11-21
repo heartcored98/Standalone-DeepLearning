@@ -2,7 +2,7 @@
 
 
 
-## Standalone-DeepLearning (by 딩브로) 
+## Standalone-DeepLearning 
 2019 KAIST 딥러닝 홀로서기 세미나용 저장소입니다.  
 
 각 세미나는 3~4개의 강의 세션과 실습 세션들로 구성되어 있습니다.  
@@ -11,7 +11,14 @@
 - 실습 코드는 `실습 코드` 링크를 통해 들어가셔서 확인할 수 있으며 구글 콜라이보레이터를 통해서 직접 실행을 시키고 싶은 경우 실습 코드네 안내를 참고해주세요!  
 - :bookmark_tabs:는 시작하기 전에 보면 좋은 자료, :pencil2:는 이론 강의, :bar_chart:는 실습 강의, :mortar_board:는 과제 그리고 :loudspeaker:는 각 회차에 대한 피드백을 남길 수 있는 설문 링크입니다!   
 
-**만약 저희 세미나가 마음에 드셨다면 우측 상단에 있는 :star2:Star를 박아주세요! 미리 감사드리겠습니다!**
+**만약 저희 세미나가 마음에 드셨다면 우측 상단에 있는 :star2:Star를 박아주세요! 미리 감사드리겠습니다!**  
+
+## 만든이 
+
+조재영(Kevin Jo)<sup>1,2</sup>, 김승수(SeungSu Kim)<sup>1,2</sup>  
+
+<sup>1</sup> <sub>KAIST</sub>  
+<sup>2</sup> <sub>딩브로 주식회사(Dingbro, Inc)</sub>  
 
 ## Contents  
 #### Lec1 (01/17, Thur)  
