@@ -1,4 +1,8 @@
-![Test Image 1](Lec1/표지1차.png)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fheartcored98%2FStandalone-DeepLearning&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+
+![Test Image 1](Lec1/표지1차.png)  
+
 
 ## 이 저장소를 활용하시는 모든 분들께 알리는 중요 공지사항 (2021.01.05)  
 
