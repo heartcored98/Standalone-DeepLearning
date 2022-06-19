@@ -20,13 +20,6 @@
 
 **만약 저희 세미나가 마음에 드셨다면 우측 상단에 있는 :star2:Star를 박아주세요! 미리 감사드리겠습니다!**  
 
-## 만든이 
-
-조재영(Kevin Jo)<sup>1,2,3</sup>, 김승수(SeungSu Kim)<sup>1,2,3</sup>  
-
-<sup>1</sup> <sub>KAIST</sub>  
-<sup>2</sup> <sub>딩브로 주식회사(Dingbro, Inc)</sub>  
-<sup>3</sup> <sub>주식회사 오토피디아(Autopedia, LTD)</sub>  
 
 ## Contents  
 #### Lec1 (01/17, Thur)  
@@ -279,10 +272,15 @@ Generative Model: VAE and GAN
 -투자정보과 박사과정 수강생
 </p>
   
+  
 
-# TODO  
+## 만든이 
 
-- [ ] Colab Dependency 업데이트  
-- [ ] RNN Lab Training Fail 이슈 해결  
+조재영(Kevin Jo)<sup>1,2,3</sup>, 김승수(SeungSu Kim)<sup>1,2,3</sup>  
 
+<sup>1</sup> <sub>현재는 오토피디아에서 차량문제 해결 서비스, 닥터차를 만들고 있어요!</sub>  
+<sup>2</sup> <sub>딩브로 주식회사</sub>  
+<sup>3</sup> <sub>KAIST</sub>  
 
+> 오토피디아는 지금 채용 중!  
+> [> 포지션 살펴보기](https://carrer.doctor-cha.com/?utm_source=github&utm_medium=social&utm_campaign=%EB%94%A5%EB%9F%AC%EB%8B%9D%ED%99%80%EB%A1%9C%EC%84%9C%EA%B8%B0)  
