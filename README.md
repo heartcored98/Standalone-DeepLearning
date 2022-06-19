@@ -22,10 +22,11 @@
 
 ## 만든이 
 
-조재영(Kevin Jo)<sup>1,2</sup>, 김승수(SeungSu Kim)<sup>1,2</sup>  
+조재영(Kevin Jo)<sup>1,2,3</sup>, 김승수(SeungSu Kim)<sup>1,2,3</sup>  
 
 <sup>1</sup> <sub>KAIST</sub>  
 <sup>2</sup> <sub>딩브로 주식회사(Dingbro, Inc)</sub>  
+<sup>3</sup> <sub>주식회사 오토피디아(Autopedia, LTD)</sub>  
 
 ## Contents  
 #### Lec1 (01/17, Thur)  
