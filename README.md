@@ -283,4 +283,4 @@ Generative Model: VAE and GAN
 <sup>3</sup> <sub>KAIST</sub>  
 
 > 오토피디아는 지금 채용 중!  
-> [> 포지션 살펴보기](https://carrer.doctor-cha.com/?utm_source=github&utm_medium=social&utm_campaign=%EB%94%A5%EB%9F%AC%EB%8B%9D%ED%99%80%EB%A1%9C%EC%84%9C%EA%B8%B0)  
+> [> 포지션 살펴보기](https://career.doctor-cha.com/?utm_source=github&utm_medium=social&utm_campaign=%EB%94%A5%EB%9F%AC%EB%8B%9D%ED%99%80%EB%A1%9C%EC%84%9C%EA%B8%B0)  
